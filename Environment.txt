@@ -1,0 +1,13 @@
+Create .env file and copy paste below
+
+
+MAPBOX_TOKEN=pk.eyJ1Ijoia2Rhc2hkdiIsImEiOiJjbDg5cDlnbGMwOHJuM3Jxb2l3dDNtYzk2In0.r3jsyxLHdN6zxrsDFxmfxg
+CLOUDINARY_CLOUD_NAME=dzs47tflx
+CLOUDINARY_KEY=888287815263589
+CLOUDINARY_SECRET=AqBmwOGUK6jfW_kSIWohb7P1F8U
+
+
+
+
+
+DB_URL=mongodb+srv://amansingh5096:%40man.singh1@cluster0.a2epyjk.mongodb.net/?retryWrites=true&w=majority
